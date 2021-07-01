@@ -45,7 +45,7 @@ Yan-Luca Lentzen / Rheinbrohl, Germany
 [![Profile Views](https://komarev.com/ghpvc/?username=chaosfreak93)](https://github.com/chaosfreak93/)
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaosfreak93&theme=tokyonight" width="333" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaosfreak93&theme=tokyonight&layout=compact" width="333" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaosfreak93&count_private=true&theme=tokyonight&show_icons=true" width="400"/>
