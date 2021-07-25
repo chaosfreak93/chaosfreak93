@@ -1,7 +1,7 @@
 # About me
 ### Hey, I'm Yan-Luca :wave:
 
-Yan-Luca Lentzen / Rheinbrohl, Germany
+Yan-Luca L. / Germany
 
 ## Friends
 [![Glowman554](https://img.shields.io/badge/-Glowman554-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Glowman554)
