@@ -12,6 +12,7 @@ Yan-Luca L. / Germany
 ## Languages
 [![Java](https://img.shields.io/badge/-java-007396.svg?logo=java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-javascript-f7df1e.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript&sort=)
+[![TypeScript](https://img.shields.io/badge/-typescript-3178C6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript&sort=)
 [![Vue.js 3.x](https://img.shields.io/badge/-vue.js_3.x-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript&sort=)
 [![Node.js](https://img.shields.io/badge/-node.js-339933.svg?logo=node.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript&sort=)
 [![HTML5](https://img.shields.io/badge/-html5-e34f26.svg?logo=html5&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=html&sort=)
