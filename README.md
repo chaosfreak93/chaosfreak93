@@ -6,7 +6,7 @@ Yan-Luca L. / Germany
 ## Friends
 [![Glowman554](https://img.shields.io/badge/-Glowman554-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Glowman554)
 [![ToxicNeko](https://img.shields.io/badge/-ToxicNeko-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/ToxicNeko)
-[![ItsGG66](https://img.shields.io/badge/-ItsGG66-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/ItsGG66)
+[![Blacknight18](https://img.shields.io/badge/-Blacknight18-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Blacknight18)
 
 
 ## Languages
