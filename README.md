@@ -10,7 +10,7 @@ Yan-Luca L. / Germany
 
 
 ## Languages
-[![Java](https://img.shields.io/badge/-java-007396.svg?logo=java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
+[![Java](https://img.shields.io/badge/-java-ffffff.svg?logo=openjdk&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-javascript-f7df1e.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript&sort=)
 [![TypeScript](https://img.shields.io/badge/-typescript-3178C6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript&sort=)
 [![Vue.js](https://img.shields.io/badge/-vue.js-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue&sort=)
