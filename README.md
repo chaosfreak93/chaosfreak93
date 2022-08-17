@@ -21,7 +21,7 @@ Yan-Luca L. / Germany
 ## Other languages
 [![Java](https://img.shields.io/badge/-java-ffffff.svg?logo=openjdk&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
 [![C#](https://img.shields.io/badge/-csharp-239120.svg?logo=csharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
-[![C++](https://img.shields.io/badge/-c++-239120.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
+[![C++](https://img.shields.io/badge/-c++-00599C.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
 
 ## Social Media
 [![Mail](https://img.shields.io/badge/-Mail-E34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://beyonddark.games@gmail.com)
