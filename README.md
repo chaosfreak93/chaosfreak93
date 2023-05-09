@@ -13,32 +13,33 @@ Yan-Luca L. / Germany
 [![Node.js](https://img.shields.io/badge/-node.js-339933.svg?logo=node.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript)
 [![HTML5](https://img.shields.io/badge/-html5-e34f26.svg?logo=html5&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=html)
 [![CSS3](https://img.shields.io/badge/-css3-1572b6.svg?logo=css3&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=css)
+[![TypeScript](https://img.shields.io/badge/-typescript-3178c6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
 
 ## Currently learning languages/frameworks
-[![TypeScript](https://img.shields.io/badge/-typescript-3178C6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
-[![Vue.js](https://img.shields.io/badge/-vue.js-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
+[![Flutter](https://img.shields.io/badge/-flutter-02569b.svg?logo=flutter&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=flutter)
 
 ## Other languages/frameworks
 [![Java](https://img.shields.io/badge/-java-ffffff.svg?logo=openjdk&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
 [![C#](https://img.shields.io/badge/-csharp-239120.svg?logo=csharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
-[![C++](https://img.shields.io/badge/-c++-00599C.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%2B%2B)
+[![C++](https://img.shields.io/badge/-c++-00599c.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%2B%2B)
+[![Vue.js](https://img.shields.io/badge/-vue.js-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
 
 ## Social Media
-[![Mail](https://img.shields.io/badge/-Mail-E34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://beyonddark.games@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/427057235286556673)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/Chaosfreak93)
+[![Mail](https://img.shields.io/badge/-Mail-e34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://support@beyonddark.de)
+[![Discord](https://img.shields.io/badge/-Discord-5865f2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/427057235286556673)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/Chaosfreak93)
 
 
 ## Development environments
 [![JetBrains](https://img.shields.io/badge/-JetBrains-000000.svg?logo=JetBrains&logoColor=white&longCache=true&style=for-the-badge)](https://www.jetbrains.com)
-[![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white&longCache=true&style=for-the-badge)](https://code.visualstudio.com)
+[![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc.svg?logo=visual-studio-code&logoColor=white&longCache=true&style=for-the-badge)](https://code.visualstudio.com)
 
 
 ## Other
 #### My Internet provider
-[![1&1](https://img.shields.io/badge/-1und1-.svg?logoColor=white&longCache=true&style=for-the-badge)](https://www.1und1.de/)
+[![Vodafone](https://img.shields.io/badge/-vodafone-e60000.svg?logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
 #### My Browser 
-[![Opera GX](https://img.shields.io/badge/-Opera%20GX-FF1B2D.svg?logo=Opera&logoColor=white&longCache=true&style=for-the-badge)](https://www.opera.com/de/gx)
+[![Opera GX](https://img.shields.io/badge/-Opera%20GX-ff1b2a.svg?logo=Opera&logoColor=white&longCache=true&style=for-the-badge)](https://www.opera.com/de/gx)
 #### Favourite database soulution
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248.svg?logo=MongoDB&logoColor=white&longCache=true&style=for-the-badge)](https://www.mongodb.com/)
 
