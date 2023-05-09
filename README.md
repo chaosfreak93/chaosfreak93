@@ -37,7 +37,7 @@ Yan-Luca L. / Germany
 
 ## Other
 #### My Internet provider
-[![Vodafone](https://img.shields.io/badge/-vodafone-e60000.svg?logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
+[![Vodafone](https://img.shields.io/badge/-Vodafone-e60000.svg?logo=Vodafone&logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
 #### My Browser 
 [![Opera GX](https://img.shields.io/badge/-Opera%20GX-ff1b2a.svg?logo=Opera&logoColor=white&longCache=true&style=for-the-badge)](https://www.opera.com/de/gx)
 #### Favourite database soulution
