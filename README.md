@@ -16,7 +16,7 @@ Yan-Luca L. / Germany
 [![TypeScript](https://img.shields.io/badge/-typescript-3178c6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
 
 ## Currently learning languages/frameworks
-[![Flutter](https://img.shields.io/badge/-flutter-02569b.svg?logo=flutter&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=flutter)
+[![Flutter](https://img.shields.io/badge/-flutter-02569b.svg?logo=flutter&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=flutter)
 
 ## Other languages/frameworks
 [![Java](https://img.shields.io/badge/-java-ffffff.svg?logo=openjdk&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
