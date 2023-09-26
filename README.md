@@ -1,7 +1,7 @@
 # About me
 ### Hey, I'm Yan-Luca :wave:
 
-Yan-Luca L. / Germany
+Yan-Luca L. / German
 
 ## Friends
 [![Glowman554](https://img.shields.io/badge/-Glowman554-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Glowman554)
@@ -14,9 +14,6 @@ Yan-Luca L. / Germany
 [![HTML5](https://img.shields.io/badge/-html5-e34f26.svg?logo=html5&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=html)
 [![CSS3](https://img.shields.io/badge/-css3-1572b6.svg?logo=css3&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=css)
 [![TypeScript](https://img.shields.io/badge/-typescript-3178c6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
-
-## Currently learning languages/frameworks
-[![Flutter](https://img.shields.io/badge/-flutter-02569b.svg?logo=flutter&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=flutter)
 
 ## Other languages/frameworks
 [![Java](https://img.shields.io/badge/-java-ffffff.svg?logo=openjdk&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
