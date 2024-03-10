@@ -2,6 +2,9 @@
 ### Hey, I'm Yan-Luca :wave:
 
 Yan-Luca L. / German
+20Years old
+Apprentice IT specialist for system integration
+Sitting for the computer since the age of 8
 
 ## Friends
 [![Glowman554](https://img.shields.io/badge/-Glowman554-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Glowman554)
@@ -19,6 +22,11 @@ Yan-Luca L. / German
 [![C#](https://img.shields.io/badge/-csharp-239120.svg?logo=csharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
 [![C++](https://img.shields.io/badge/-c++-00599c.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%2B%2B)
 [![Vue.js](https://img.shields.io/badge/-vue.js-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
+
+## Basic Knowledge in
+[![Docker](https://img.shields.io/badge/-Docker-2496ed.svg?logo=Docker&logoColor=white&longCache=true&style=for-the-badge)](https://www.docker.com/)
+[![Proxmox](https://img.shields.io/badge/-Proxmox-e57000.svg?logo=Proxmox&logoColor=white&longCache=true&style=for-the-badge)](https://www.proxmox.com/de/)
+
 
 ## Social Media
 [![Mail](https://img.shields.io/badge/-Mail-e34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://info@beyonddark.de)
