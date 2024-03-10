@@ -36,7 +36,7 @@ Yan-Luca L. / German
 [![DuckDuckGo](https://img.shields.io/badge/-DuckDuckGo-de5833.svg?logo=DuckDuckGo&logoColor=black&longCache=true&style=for-the-badge)](https://duckduckgo.com/)
 #### Favourite database soulutions
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1.svg?logo=PostgreSQL&logoColor=white&longCache=true&style=for-the-badge)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47a248.svg?logo=MongoDB&logoColor=white&longCache=true&style=flat)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47a248.svg?logo=MongoDB&logoColor=white&longCache=true&style=flat-square)](https://www.mongodb.com/)
 
 
 ## Stats
