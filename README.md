@@ -27,17 +27,16 @@ Yan-Luca L. / German
 
 
 ## Development environments
-[![JetBrains](https://img.shields.io/badge/-JetBrains-000000.svg?logo=JetBrains&logoColor=white&longCache=true&style=for-the-badge)](https://www.jetbrains.com)
-[![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc.svg?logo=visual-studio-code&logoColor=white&longCache=true&style=for-the-badge)](https://code.visualstudio.com)
-
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc.svg?logo=visualstudiocode&logoColor=white&longCache=true&style=for-the-badge)](https://code.visualstudio.com)
 
 ## Other
 #### My Internet provider
 [![Vodafone Cable](https://img.shields.io/badge/-Vodafone-e60000.svg?logo=Vodafone&logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
 #### My Browser 
 [![DuckDuckGo](https://img.shields.io/badge/-DuckDuckGo-de5833.svg?logo=DuckDuckGo&logoColor=black&longCache=true&style=for-the-badge)](https://duckduckgo.com/)
-#### Favourite database soulution
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248.svg?logo=MongoDB&logoColor=white&longCache=true&style=for-the-badge)](https://www.mongodb.com/)
+#### Favourite database soulutions
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1.svg?logo=PostgreSQL&logoColor=white&longCache=true&style=for-the-badge)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47a248.svg?logo=MongoDB&logoColor=white&longCache=true&style=for-the-badge)](https://www.mongodb.com/)
 
 
 ## Stats
