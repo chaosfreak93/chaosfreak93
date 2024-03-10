@@ -32,7 +32,7 @@ Apprentice IT specialist for system integration</br>
 ## Also using
 [![Debian](https://img.shields.io/badge/-Debian-a81d33.svg?logo=Debian&logoColor=white&longCache=true&style=for-the-badge)](https://www.debian.org/)
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171a.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
-[![BorgBackup](https://img.shields.io/badge/-BorgBackup-00dd00.svg?logo=BorgBackup&logoColor=black&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
+[![BorgBackup](https://img.shields.io/badge/-BorgBackup-00dd00.svg?logo=BorgBackup&color=black&logoColor=black&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
 
 
 ## Social Media
