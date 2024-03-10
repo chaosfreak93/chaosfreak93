@@ -1,10 +1,10 @@
 # About me
 ### Hey, I'm Yan-Luca :wave:
 
-Yan-Luca L. / German
-20Years old
-Apprentice IT specialist for system integration
-Sitting for the computer since the age of 8
+Yan-Luca L. / German</br>
+20Years old</br>
+Apprentice IT specialist for system integration</br>
+Sitting for the computer since the age of 8</br>
 
 ## Friends
 [![Glowman554](https://img.shields.io/badge/-Glowman554-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Glowman554)
