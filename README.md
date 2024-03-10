@@ -27,7 +27,7 @@ Sitting for the computer since the age of 8
 [![Docker](https://img.shields.io/badge/-Docker-2496ed.svg?logo=Docker&logoColor=white&longCache=true&style=for-the-badge)](https://www.docker.com/)
 [![Proxmox](https://img.shields.io/badge/-Proxmox-e57000.svg?logo=Proxmox&logoColor=white&longCache=true&style=for-the-badge)](https://www.proxmox.com/de/)
 [![OPNSense](https://img.shields.io/badge/-OPNSense-d94f00.svg?logo=OPNSense&logoColor=white&longCache=true&style=for-the-badge)](https://opnsense.org/)
-[![Windows Server](https://img.shields.io/badge/-Windows-0078d4.svg?logo=Windows&logoColor=white&longCache=true&style=for-the-badge)](https://www.microsoft.com/en-us/windows-server)
+[![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078d4.svg?logo=Windows&logoColor=white&longCache=true&style=for-the-badge)](https://www.microsoft.com/en-us/windows-server)
 
 
 ## Also using
