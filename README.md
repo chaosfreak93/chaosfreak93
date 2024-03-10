@@ -5,7 +5,6 @@ Yan-Luca L. / German
 
 ## Friends
 [![Glowman554](https://img.shields.io/badge/-Glowman554-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Glowman554)
-[![ToxicNeko](https://img.shields.io/badge/-ToxicNeko-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/ToxicNeko)
 [![Blacknight18](https://img.shields.io/badge/-Blacknight18-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Blacknight18)
 
 ## Well-Known languages/frameworks
@@ -22,7 +21,7 @@ Yan-Luca L. / German
 [![Vue.js](https://img.shields.io/badge/-vue.js-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
 
 ## Social Media
-[![Mail](https://img.shields.io/badge/-Mail-e34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://support@beyonddark.de)
+[![Mail](https://img.shields.io/badge/-Mail-e34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://info@beyonddark.de)
 [![Discord](https://img.shields.io/badge/-Discord-5865f2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/427057235286556673)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/Chaosfreak93)
 
@@ -36,7 +35,7 @@ Yan-Luca L. / German
 #### My Internet provider
 [![Vodafone Cable](https://img.shields.io/badge/-Vodafone-e60000.svg?logo=Vodafone&logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
 #### My Browser 
-[![Opera GX](https://img.shields.io/badge/-Opera%20GX-ff1b2a.svg?logo=Opera&logoColor=white&longCache=true&style=for-the-badge)](https://www.opera.com/de/gx)
+[![DuckDuckGo](https://img.shields.io/badge/-DuckDuckGo-de5833.svg?logo=DuckDuckGo&logoColor=white&longCache=true&style=for-the-badge)](https://duckduckgo.com/)
 #### Favourite database soulution
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248.svg?logo=MongoDB&logoColor=white&longCache=true&style=for-the-badge)](https://www.mongodb.com/)
 
