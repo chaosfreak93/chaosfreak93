@@ -37,6 +37,7 @@ Btw i use [![Arch Linux](https://img.shields.io/badge/-ArchLinux-1793d1.svg?logo
 [![Debian](https://img.shields.io/badge/-Debian-a81d33.svg?logo=Debian&logoColor=white&longCache=true&style=for-the-badge)](https://www.debian.org/)
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171a.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
 [![BorgBackup](https://img.shields.io/badge/-BorgBackup-00dd00.svg?logo=BorgBackup&logoColor=white&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
+[![Unifi](https://img.shields.io/badge/-Ubiquiti-0559c9.svg?logo=Ubiquiti&logoColor=white&longCache=true&style=for-the-badge)](https://ui.com/introduction)
 
 
 ## Social Media
