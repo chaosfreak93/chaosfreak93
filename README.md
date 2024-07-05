@@ -33,6 +33,7 @@ Apprentice IT specialist for system integration</br>
 
 ## Also using
 Btw i use [![Arch Linux](https://img.shields.io/badge/-ArchLinux-1793d1.svg?logo=ArchLinux&logoColor=white&longCache=true&style=for-the-badge)](https://archlinux.org/)
+
 [![Debian](https://img.shields.io/badge/-Debian-a81d33.svg?logo=Debian&logoColor=white&longCache=true&style=for-the-badge)](https://www.debian.org/)
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171a.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
 [![BorgBackup](https://img.shields.io/badge/-BorgBackup-00dd00.svg?logo=BorgBackup&logoColor=white&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
