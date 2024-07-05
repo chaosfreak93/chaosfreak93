@@ -22,14 +22,17 @@ Apprentice IT specialist for system integration</br>
 [![C++](https://img.shields.io/badge/-c++-00599c.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%2B%2B)
 [![Vue.js](https://img.shields.io/badge/-vue.js-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
 
-## Basic Knowledge in
+## Knowledge in
 [![Docker](https://img.shields.io/badge/-Docker-2496ed.svg?logo=Docker&logoColor=white&longCache=true&style=for-the-badge)](https://www.docker.com/)
+
+## Basic Knowledge in
 [![Proxmox](https://img.shields.io/badge/-Proxmox-e57000.svg?logo=Proxmox&logoColor=white&longCache=true&style=for-the-badge)](https://www.proxmox.com/de/)
 [![OPNSense](https://img.shields.io/badge/-OPNSense-d94f00.svg?logo=OPNSense&logoColor=white&longCache=true&style=for-the-badge)](https://opnsense.org/)
 [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078d4.svg?logo=Windows&logoColor=white&longCache=true&style=for-the-badge)](https://www.microsoft.com/en-us/windows-server)
 
 
 ## Also using
+Btw i use [![Arch Linux](https://img.shields.io/badge/-ArchLinux-1793d1.svg?logo=ArchLinux&logoColor=white&longCache=true&style=for-the-badge)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/-Debian-a81d33.svg?logo=Debian&logoColor=white&longCache=true&style=for-the-badge)](https://www.debian.org/)
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171a.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
 [![BorgBackup](https://img.shields.io/badge/-BorgBackup-00dd00.svg?logo=BorgBackup&logoColor=white&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
