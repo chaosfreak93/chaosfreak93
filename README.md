@@ -52,6 +52,7 @@ Btw i use [![Arch Linux](https://img.shields.io/badge/-ArchLinux-1793d1.svg?logo
 ## Other
 #### My Internet provider
 [![Vodafone Cable](https://img.shields.io/badge/-Vodafone-e60000.svg?logo=Vodafone&logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
+Terminated, contract will end March 2025.
 #### My Browser 
 [![DuckDuckGo](https://img.shields.io/badge/-DuckDuckGo-de5833.svg?logo=DuckDuckGo&logoColor=black&longCache=true&style=for-the-badge)](https://duckduckgo.com/)
 #### Favourite database soulutions
