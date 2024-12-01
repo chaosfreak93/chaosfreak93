@@ -55,7 +55,7 @@ Apprentice IT specialist for system integration</br>
 
 [![Vodafone Cable](https://img.shields.io/badge/-Vodafone-e60000.svg?logo=Vodafone&logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
 #### My Browser 
-[![Firefox](https://img.shields.io/badge/-Firefox-ff7139.svg?logo=Firefox&logoColor=black&longCache=true&style=for-the-badge)](https://www.mozilla.org/de/firefox/)
+[![Firefox](https://img.shields.io/badge/-Firefox-ff7139.svg?logo=Firefox&logoColor=white&longCache=true&style=for-the-badge)](https://www.mozilla.org/de/firefox/)
 #### Favourite database soulutions
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1.svg?logo=PostgreSQL&logoColor=white&longCache=true&style=for-the-badge)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47a248.svg?logo=MongoDB&logoColor=white&longCache=true&style=for-the-badge)](https://www.mongodb.com/)
