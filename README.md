@@ -36,7 +36,7 @@ Apprentice IT specialist for system integration</br>
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171a.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
 [![BorgBackup](https://img.shields.io/badge/-BorgBackup-00dd00.svg?logo=BorgBackup&logoColor=white&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
 [![Unifi](https://img.shields.io/badge/-Ubiquiti-0559c9.svg?logo=Ubiquiti&logoColor=white&longCache=true&style=for-the-badge)](https://ui.com/introduction)
-[![Synology](https://img.shields.io/badge/-Synology-b5b5b6.svg?logo=Synology&logoColor=white&longCache=true&style=for-the-badge)](https://www.synology.com/de-de)
+[![Synology](https://img.shields.io/badge/-Synology-b5b5b6.svg?logo=Synology&logoColor=black&longCache=true&style=for-the-badge)](https://www.synology.com/de-de)
 [![TrueNAS SCALE](https://img.shields.io/badge/-TrueNAS-0095d5.svg?logo=TrueNAS&logoColor=white&longCache=true&style=for-the-badge)](https://www.truenas.com/truenas-scale/)
 
 
