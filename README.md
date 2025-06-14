@@ -3,7 +3,7 @@
 
 Yan-Luca L. / German</br>
 21Years old</br>
-Apprentice IT specialist for system integration</br>
+IT specialist for system integration</br>
 
 ## Friends
 [![Glowman554](https://img.shields.io/badge/-Glowman554-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Glowman554)
