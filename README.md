@@ -51,8 +51,6 @@ IT specialist for system integration</br>
 
 ## Other
 #### My Internet provider
-> Terminated, contract will end March 2025.
-
 [![Vodafone Cable](https://img.shields.io/badge/-Vodafone-e60000.svg?logo=Vodafone&logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
 #### My Browser 
 [![Firefox](https://img.shields.io/badge/-Firefox-ff7139.svg?logo=Firefox&logoColor=white&longCache=true&style=for-the-badge)](https://www.mozilla.org/de/firefox/)
