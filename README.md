@@ -43,7 +43,7 @@ IT specialist for system integration</br>
 ## Social Media
 [![Mail](https://img.shields.io/badge/-Mail-EA4335.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto:info@beyonddark.de)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/427057235286556673)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/Chaosfreak93)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000.svg?logo=x&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/Chaosfreak93)
 
 
 ## Development environments
