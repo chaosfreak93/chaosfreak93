@@ -9,18 +9,17 @@ IT specialist for system integration</br>
 [![Glowman554](https://img.shields.io/badge/-Glowman554-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Glowman554)
 [![Blacknight18](https://img.shields.io/badge/-Blacknight18-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Blacknight18)
 
-## Well-Known languages/frameworks
+## Known languages/frameworks
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript)
 [![Node.js](https://img.shields.io/badge/-node.js-5FA04E.svg?logo=nodedotjs&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript)
 [![HTML5](https://img.shields.io/badge/-html5-E34F26.svg?logo=html5&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=html)
 [![CSS](https://img.shields.io/badge/-css-663399.svg?logo=css&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=css)
+[![Vue.js](https://img.shields.io/badge/-vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
 [![TypeScript](https://img.shields.io/badge/-typescript-3178C6.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
-
-## Other languages/frameworks
 [![Java](https://img.shields.io/badge/-java-FF1464.svg?logo=eclipseadoptium&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
 [![C#](https://img.shields.io/badge/-csharp-512BD4.svg?logo=csharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
 [![C++](https://img.shields.io/badge/-c++-00599C.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%2B%2B)
-[![Vue.js](https://img.shields.io/badge/-vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391fe.svg?logo=powershell&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
 
 ## Knowledge in
 [![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?logo=Docker&logoColor=white&longCache=true&style=for-the-badge)](https://www.docker.com/)
@@ -32,7 +31,6 @@ IT specialist for system integration</br>
 [![OPNSense](https://img.shields.io/badge/-OPNSense-E44A20.svg?logo=opnsense&logoColor=white&longCache=true&style=for-the-badge)](https://opnsense.org/)
 [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078d4.svg?logo=Windows&logoColor=white&longCache=true&style=for-the-badge)](https://www.microsoft.com/en-us/windows-server)
 [![Unifi](https://img.shields.io/badge/-Unifi-0559C9.svg?logo=ubiquiti&logoColor=white&longCache=true&style=for-the-badge)](https://ui.com/introduction)
-[![PowerShell](https://img.shields.io/badge/-PowerShell-5391fe.svg?logo=powershell&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
 
 ## Also using
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171A.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
