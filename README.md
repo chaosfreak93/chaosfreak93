@@ -36,7 +36,7 @@ IT specialist for system integration</br>
 
 ## Also using
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171A.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
-[![BorgBackup](https://img.shields.io/badge/-BorgBackup-00DD00.svg?logo=borgbackup&logoColor=white&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
+[![BorgBackup](https://img.shields.io/badge/-BorgBackup-00DD00.svg?logo=borgbackup&logoColor=black&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
 [![TrueNAS SCALE](https://img.shields.io/badge/-TrueNAS-0095D5.svg?logo=TrueNAS&logoColor=white&longCache=true&style=for-the-badge)](https://www.truenas.com/truenas-scale/)
 
 
