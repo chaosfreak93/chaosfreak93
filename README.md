@@ -14,7 +14,7 @@ IT specialist for system integration</br>
 [![Node.js](https://img.shields.io/badge/-node.js-5FA04E.svg?logo=nodedotjs&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript)
 [![HTML5](https://img.shields.io/badge/-html5-E34F26.svg?logo=html5&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=html)
 [![CSS](https://img.shields.io/badge/-css-663399.svg?logo=css&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=css)
-[![TypeScript](https://img.shields.io/badge/-typescript-3178C6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
+[![TypeScript](https://img.shields.io/badge/-typescript-3178C6.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
 
 ## Other languages/frameworks
 [![Java](https://img.shields.io/badge/-java-FF1464.svg?logo=eclipseadoptium&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
