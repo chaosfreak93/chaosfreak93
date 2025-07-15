@@ -17,7 +17,7 @@ IT specialist for system integration</br>
 [![TypeScript](https://img.shields.io/badge/-typescript-3178c6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
 
 ## Other languages/frameworks
-[![Java](https://img.shields.io/badge/-java-FF1464.svg?logo=eclipseadoptium&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
+[![Java](https://img.shields.io/badge/-java-FF1464.svg?logo=eclipseadoptium&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
 [![C#](https://img.shields.io/badge/-csharp-239120.svg?logo=csharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
 [![C++](https://img.shields.io/badge/-c++-00599c.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%2B%2B)
 [![Vue.js](https://img.shields.io/badge/-vue.js-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
