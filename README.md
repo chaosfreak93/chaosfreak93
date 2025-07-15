@@ -10,40 +10,40 @@ IT specialist for system integration</br>
 [![Blacknight18](https://img.shields.io/badge/-Blacknight18-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Blacknight18)
 
 ## Well-Known languages/frameworks
-[![JavaScript](https://img.shields.io/badge/-javascript-f7df1e.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript)
-[![Node.js](https://img.shields.io/badge/-node.js-339933.svg?logo=node.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript)
-[![HTML5](https://img.shields.io/badge/-html5-e34f26.svg?logo=html5&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=html)
+[![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript)
+[![Node.js](https://img.shields.io/badge/-node.js-5FA04E.svg?logo=nodedotjs&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=javascript)
+[![HTML5](https://img.shields.io/badge/-html5-E34F26.svg?logo=html5&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=html)
 [![CSS](https://img.shields.io/badge/-css-663399.svg?logo=css&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=css)
-[![TypeScript](https://img.shields.io/badge/-typescript-3178c6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
+[![TypeScript](https://img.shields.io/badge/-typescript-3178C6.svg?logo=typescript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=typescript)
 
 ## Other languages/frameworks
 [![Java](https://img.shields.io/badge/-java-FF1464.svg?logo=eclipseadoptium&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=java)
-[![C#](https://img.shields.io/badge/-csharp-239120.svg?logo=csharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
-[![C++](https://img.shields.io/badge/-c++-00599c.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%2B%2B)
-[![Vue.js](https://img.shields.io/badge/-vue.js-4fc08d.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
+[![C#](https://img.shields.io/badge/-csharp-512BD4.svg?logo=csharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%23)
+[![C++](https://img.shields.io/badge/-c++-00599C.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=c%2B%2B)
+[![Vue.js](https://img.shields.io/badge/-vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93?tab=repositories&q=&type=&language=vue)
 
 ## Knowledge in
-[![Docker](https://img.shields.io/badge/-Docker-2496ed.svg?logo=Docker&logoColor=white&longCache=true&style=for-the-badge)](https://www.docker.com/)
-[![Synology](https://img.shields.io/badge/-Synology-b5b5b6.svg?logo=Synology&logoColor=black&longCache=true&style=for-the-badge)](https://www.synology.com/de-de)
-[![Debian](https://img.shields.io/badge/-Debian-a81d33.svg?logo=Debian&logoColor=white&longCache=true&style=for-the-badge)](https://www.debian.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?logo=Docker&logoColor=white&longCache=true&style=for-the-badge)](https://www.docker.com/)
+[![Synology](https://img.shields.io/badge/-Synology-B5B5B6.svg?logo=Synology&logoColor=black&longCache=true&style=for-the-badge)](https://www.synology.com/de-de)
+[![Debian](https://img.shields.io/badge/-Debian-A81D33.svg?logo=Debian&logoColor=white&longCache=true&style=for-the-badge)](https://www.debian.org/)
 
 ## Basic Knowledge in
-[![Proxmox](https://img.shields.io/badge/-Proxmox-e57000.svg?logo=Proxmox&logoColor=white&longCache=true&style=for-the-badge)](https://www.proxmox.com/de/)
-[![OPNSense](https://img.shields.io/badge/-OPNSense-d94f00.svg?logo=OPNSense&logoColor=white&longCache=true&style=for-the-badge)](https://opnsense.org/)
+[![Proxmox](https://img.shields.io/badge/-Proxmox-E57000.svg?logo=proxmox&logoColor=white&longCache=true&style=for-the-badge)](https://www.proxmox.com/de/)
+[![OPNSense](https://img.shields.io/badge/-OPNSense-E44A20.svg?logo=opnsense&logoColor=white&longCache=true&style=for-the-badge)](https://opnsense.org/)
 [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078d4.svg?logo=Windows&logoColor=white&longCache=true&style=for-the-badge)](https://www.microsoft.com/en-us/windows-server)
-[![Unifi](https://img.shields.io/badge/-Ubiquiti-0559c9.svg?logo=Ubiquiti&logoColor=white&longCache=true&style=for-the-badge)](https://ui.com/introduction)
+[![Unifi](https://img.shields.io/badge/-Unifi-0559C9.svg?logo=ubiquiti&logoColor=white&longCache=true&style=for-the-badge)](https://ui.com/introduction)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391fe.svg?logo=powershell&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
 
 ## Also using
-[![WireGuard](https://img.shields.io/badge/-WireGuard-88171a.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
-[![BorgBackup](https://img.shields.io/badge/-BorgBackup-00dd00.svg?logo=BorgBackup&logoColor=white&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
-[![TrueNAS SCALE](https://img.shields.io/badge/-TrueNAS-0095d5.svg?logo=TrueNAS&logoColor=white&longCache=true&style=for-the-badge)](https://www.truenas.com/truenas-scale/)
+[![WireGuard](https://img.shields.io/badge/-WireGuard-88171A.svg?logo=WireGuard&logoColor=white&longCache=true&style=for-the-badge)](https://www.wireguard.com/)
+[![BorgBackup](https://img.shields.io/badge/-BorgBackup-00DD00.svg?logo=borgbackup&logoColor=white&longCache=true&style=for-the-badge)](https://www.borgbackup.org/)
+[![TrueNAS SCALE](https://img.shields.io/badge/-TrueNAS-0095D5.svg?logo=TrueNAS&logoColor=white&longCache=true&style=for-the-badge)](https://www.truenas.com/truenas-scale/)
 
 
 ## Social Media
-[![Mail](https://img.shields.io/badge/-Mail-e34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto:info@beyonddark.de)
-[![Discord](https://img.shields.io/badge/-Discord-5865f2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/427057235286556673)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/Chaosfreak93)
+[![Mail](https://img.shields.io/badge/-Mail-EA4335.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto:info@beyonddark.de)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/427057235286556673)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/Chaosfreak93)
 
 
 ## Development environments
@@ -51,12 +51,12 @@ IT specialist for system integration</br>
 
 ## Other
 #### My Internet provider
-[![Vodafone Cable](https://img.shields.io/badge/-Vodafone-e60000.svg?logo=Vodafone&logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
+[![Vodafone Cable](https://img.shields.io/badge/-Vodafone-E60000.svg?logo=Vodafone&logoColor=white&longCache=true&style=for-the-badge)](https://www.vodafone.de/)
 #### My Browser 
-[![Firefox](https://img.shields.io/badge/-Firefox-ff7139.svg?logo=Firefox&logoColor=white&longCache=true&style=for-the-badge)](https://www.mozilla.org/de/firefox/)
+[![Firefox](https://img.shields.io/badge/-Firefox-FF7139.svg?logo=firefoxbrowser&logoColor=white&longCache=true&style=for-the-badge)](https://www.mozilla.org/de/firefox/)
 #### Favourite database soulutions
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1.svg?logo=PostgreSQL&logoColor=white&longCache=true&style=for-the-badge)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47a248.svg?logo=MongoDB&logoColor=white&longCache=true&style=for-the-badge)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white&longCache=true&style=for-the-badge)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248.svg?logo=MongoDB&logoColor=white&longCache=true&style=for-the-badge)](https://www.mongodb.com/)
 
 
 ## Stats
